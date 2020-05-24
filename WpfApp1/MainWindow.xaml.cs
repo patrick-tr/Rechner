@@ -164,6 +164,9 @@ namespace WpfApp1
             return string.Empty;
         }
 
+        /// <summary>
+        /// Zeigt das Ergebniss das in der private Proberty _Result gespeichert ist
+        /// </summary>
         private void DisplayResult()
         {
             ClearDisplay();
